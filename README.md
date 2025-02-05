@@ -1,2 +1,2 @@
 'hello-world'
-i am new to coding
+"Hello, my name is Ethan Chua."
